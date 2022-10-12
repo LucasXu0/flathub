@@ -3,5 +3,4 @@ Type=Application
 Name=AppFlowy
 Icon=io.appflowy.AppFlowy
 Exec=app_flowy
-Categories=Productivity;
-Keywords=Notes;
+MimeType=x-scheme-handler/appflowy;

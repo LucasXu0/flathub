@@ -4,6 +4,8 @@
   
   <name>AppFlowy</name>
   <summary>Open Source Notion Alternative</summary>
+
+  <url type="homepage">https://appflowy.io</url>
   
   <metadata_license>CC-BY-4.0</metadata_license>
   <project_license>AGPL-3.0-only</project_license>
